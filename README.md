@@ -6,7 +6,7 @@ The class library is written in [C#][], and the demo project uses [XAML][] ([WPF
 [C#]: http://wikipedia.org/wiki/C_Sharp_%28programming_language%29
 [XAML]: http://wikipedia.org/wiki/XAML
 [WPF]: http://wikipedia.org/wiki/Windows_Presentation_Foundation
-[NuGet package of the project]: https://www.nuget.org/packages/PoloniexApi.Net
+[NuGet package of the project]: https://www.nuget.org/packages/BitstampApi.Net
 
 ## Usage requirements
 Installing [Microsoft .NET Framework 4.5][] (or higher) is a requirement for both end-users and developers.
